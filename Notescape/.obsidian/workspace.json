@@ -1,0 +1,156 @@
+{
+  "main": {
+    "id": "953fa748a5e242d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f2e1d513b88bfb3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ce44d34717a001d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SCHOOL/SPL/Lesson 1.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7c6f681f368a276b",
+    "type": "split",
+    "children": [
+      {
+        "id": "e5b883943ea7da32",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd9f4c8906df7ab3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0c5f8bc5e42f453c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8583fdf65dc5e8db",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "bb38d2290ce24f22",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f13f52f9a5a1830",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "774bb135e5661a73",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "SCHOOL/SPL/Lesson 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c6926ff9865b7fd3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "SCHOOL/SPL/Lesson 1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "479a9c8d75672121",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9d9a576a0f728f81",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "SCHOOL/SPL/Lesson 1.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0ce44d34717a001d",
+  "lastOpenFiles": [
+    "SCHOOL/SPL/Lesson 1.md",
+    "SCHOOL/SPL",
+    "Untitled",
+    "SCHOOL"
+  ]
+}
