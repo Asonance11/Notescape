@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "SCHOOL/SPL/Lesson 1.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "bb38d2290ce24f22",
