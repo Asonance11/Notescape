@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SCHOOL/SPL/Lesson 1.md",
-                "mode": "preview",
+                "file": "SCHOOL/SPL/Lesson 2.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "bb38d2290ce24f22",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SCHOOL/SPL/Lesson 1.md",
+                "file": "SCHOOL/SPL/Lesson 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SCHOOL/SPL/Lesson 1.md",
+                "file": "SCHOOL/SPL/Lesson 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SCHOOL/SPL/Lesson 1.md"
+                "file": "SCHOOL/SPL/Lesson 2.md"
               }
             }
           }
@@ -147,9 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0ce44d34717a001d",
+  "active": "bd9f4c8906df7ab3",
   "lastOpenFiles": [
     "SCHOOL/SPL/Lesson 1.md",
+    "SCHOOL/SPL/Lesson 2.md",
+    "Untitled.md",
     "SCHOOL/SPL",
     "Untitled",
     "SCHOOL"
